@@ -2,6 +2,12 @@
 
 Chat-App:  Fully responsive MERN Real-time Chat App made with Reactjs, Tailwind, Nodejs, Expressjs, Socket.io, Mongodb, Mongoose.
 
+
+#To Run:
+
+cd backend : npm start
+cd frontend: npm run dev
+
 ![Capture-1](https://github.com/user-attachments/assets/021772ab-047e-4137-81c9-eca3982d7f0b)
 
 
